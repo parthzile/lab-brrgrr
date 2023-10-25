@@ -249,15 +249,13 @@ function renderPrice() {
 
   displayPrice.innerHTML = `INR ${price}`;
 
+  //   price = wholeWheatBun;
+  
+  //   for (let ingredient in state) {
+  //     if (state[ingredient]) {
+  //       price += ingredients[ingredient];
+  //     }
+  //   }
+  
+  //   displayPrice.innerHTML = `INR ${price}`;
 }
-// function renderPrice() {
-//   price = wholeWheatBun;
-
-//   for (let ingredient in state) {
-//     if (state[ingredient]) {
-//       price += ingredients[ingredient];
-//     }
-//   }
-
-//   displayPrice.innerHTML = `INR ${price}`;
-// }
