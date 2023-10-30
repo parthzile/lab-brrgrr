@@ -217,7 +217,6 @@ function renderIngredientsBoard() {
 //Judgement 1
 //In the p element having price-details as the class, display the calculated
 //price based on ingredients
-const pay = document.querySelector("Rectangle5");
 
 function renderPrice() {
   price = wholeWheatBun;
